@@ -1,7 +1,7 @@
 # First_multiplayer_game
 
 
-<Facebook> FunPage:<br />
+<Facebook> Page:<br />
 https://www.facebook.com/KrzychuProject-MMO-2004216729809979 /<br />
 <YouTube> Video with Tibian walking: <br />
 https://www.youtube.com/watch?v=bamMPwmwmbE<br />
